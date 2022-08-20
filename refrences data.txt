@@ -1,0 +1,15 @@
+refrences: 
+
+https://www.geeksforgeeks.org/plot-a-pie-chart-in-python-using-matplotlib/ 
+(pie chart plot)
+
+https://stackoverflow.com/questions/7125009/how-to-change-legend-size-with-matplotlib-pyplot
+(legend size)
+
+https://stackoverflow.com/questions/18458734/how-do-i-plot-list-of-tuples-in-python
+(
+x_val = [x[0] for x in director_mean_list[:11]]
+y_val = [x[0] for x in director_mean_list[:11]]
+}
+
+
